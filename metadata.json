@@ -1,0 +1,8 @@
+{
+  "name": "Inbox Assistant Studio",
+  "description": "Set up, test, and safely automate a recurring AI inbox assistant in ChatGPT Work mode for Gmail and Outlook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
